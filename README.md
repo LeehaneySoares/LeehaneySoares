@@ -7,4 +7,4 @@
 
 ## About me
 
-I'm a <b>{Frontend and Java Developer}</b> Systems Analysis and Development student and developer at [unicid](https://www.unicid.edu.br/graduacao/analise-e-desenvolvimento-de-sistemas/) (Universidade da Cidade de São Paulo).
+I'm a <b>{Frontend Developer}</b> Systems Analysis and Development student and developer at [unicid](https://www.unicid.edu.br/graduacao/analise-e-desenvolvimento-de-sistemas/) (Universidade da Cidade de São Paulo).
