@@ -7,4 +7,4 @@
 
 ## About me
 
-I'm a <b>{Frontend Developer}</b> Systems Analysis and Development student and developer at [unicid](https://www.unicid.edu.br/graduacao/analise-e-desenvolvimento-de-sistemas/) (Universidade da Cidade de São Paulo).
+I'm a <b>{Systems analyst and developer}</b> working as a product developer at START by wgsn. Studying a postgraduate course in systems development - web and mobile at [ENIAC](https://www.eniac.com.br/cursos/pos-graduacao-em-desenvolvimento-de-sistemas-web-e-mobile?hsLang=pt-br).
