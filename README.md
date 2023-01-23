@@ -13,7 +13,7 @@
 📚 **Studying a postgraduate course in systems development - web and mobile at [ENIAC](https://www.eniac.com.br/cursos/pos-graduacao-em-desenvolvimento-de-sistemas-web-e-mobile?hsLang=pt-br).**
 
 
-</p>
+<!-- </p>
 <hr>
 <div>
   <a href="https://github.com/LeehaneySoares">
@@ -26,4 +26,4 @@
   <img align="center" alt="Leehaney-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Leehaney-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="Leehaney-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-</div>
+</div> -->
